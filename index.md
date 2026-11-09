@@ -17,6 +17,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Investigating antecedents of plagiarism using extended theory of planned behavior](ebook/Jurnal%20Teori%20Kuanti.pdf) - Ahmet Murat Uzun (2019)
 10. [KELELAHAN DIGITAL DI ERA MEDIA SOSIAL:STUDI TENTANG KELEBIHAN INFORMASI KECEMASAN DAN FEAR OF MISSING OUT(FOMO)](ebook/Ebook%204.pdf) - Faustin Venus Wijaya (2025)
 11. [UGC PATI 2026 13040124140117](ebook/UGC%20PATI%202026%2013040124140117.pdf) - Nindya Hapsari (2026)
+    
 ---
 
 *Powered by GitHub Pages*
