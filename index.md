@@ -12,6 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [An exploratory study of university librarians'perceptions on causes and detterents of plagiarism:a Pakistani percepective](ebook/An exploratory study of university librarians'perceptions on causes and detterents of plagiarism:a Pakistani percepective) - Faiqa Mansoor (2022)
 9.  [Investigating antecedents of plagiarism using extended theory of planned behavior](ebook/Investigating antecedents of plagiarism using extended theory of planned behavior) - Ahmet Murat Uzun (2019)
 10.  [KELELAHAN DIGITAL DI ERA MEDIA SOSIAL:STUDI TENTANG KELEBIHAN INFORMASI KECEMASAN DAN FEAR OF MISSING OUT(FOMO)](ebook/KELELAHAN DIGITAL DI ERA MEDIA SOSIAL:STUDI TENTANG KELEBIHAN INFORMASI KECEMASAN DAN FEAR OF MISSING OUT(FOMO)) - Faustin Venus Wijaya (2025)
-11.  [UGC PATI 2026 13040124140117](ebook/UGC PATI 2026 13040124140117) - Nindya Hapsari (2026)
+11.   [UGC PATI 2026 13040124140117](ebook/UGC%20PATI%202026%2013040124140117.pdf) - Nindya Hapsari (2026)
 ---
 *Powered by GitHub Pages*
